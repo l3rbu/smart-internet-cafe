@@ -1,4 +1,4 @@
-<img width="1265" height="506" alt="image" src="https://github.com/user-attachments/assets/be2f12aa-f14e-4038-b473-12e0f1f64569" /># Smart Internet Cafe Network Simulation
+# Smart Internet Cafe Network Simulation
 
 This is a Cisco Packet Tracer simulation project of a smart internet cafe with integrated IoT devices and VLAN-based segmentation.
 
