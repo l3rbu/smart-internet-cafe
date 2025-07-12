@@ -41,8 +41,8 @@ The network spans three floors and implements dynamic routing, DHCP, ACL filteri
 | VLAN ID | Name             | Description                          |
 |---------|------------------|--------------------------------------|
 | 10      | Server Room      | Internal servers and services        |
-| 20      | Admin / Cashier  | Staff operations and billing         |
-| 30      | PS4 Gaming Zone  | Console clients (zone 1)             |
+| 20      | PS4 Gaming Zone  | Console clients (zone 1)             |
+| 30      | Admin / Cashier  | Staff operations and billing         |
 | 40      | PS5 Gaming Zone  | Console clients (zone 2)             |
 | 50      | PC Gaming Zone   | Desktop gaming users                 |
 | 70      | VoIP A           | First group of internal IP Phones    |
