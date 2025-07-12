@@ -11,8 +11,10 @@ The network spans three floors and implements dynamic routing, DHCP, ACL filteri
 - 1st Floor
 <img width="1535" height="572" alt="image" src="https://github.com/user-attachments/assets/ec27b47f-bcc2-4850-8572-9083dc1cc1f7" />
 
+
 - 2nd Floor
 <img width="1266" height="483" alt="image" src="https://github.com/user-attachments/assets/43ee2f4a-9f27-4c4e-960f-3552e2152f50" />
+
 
 - 3rd Floor
 <img width="1265" height="506" alt="image" src="https://github.com/user-attachments/assets/79051f07-67b0-46cc-8a8c-672adf8b6c47" />
